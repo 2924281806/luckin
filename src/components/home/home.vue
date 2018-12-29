@@ -1,7 +1,6 @@
 <template>
   <div>
     <home-swiper></home-swiper>
-    <div>test</div>
   </div>
   
 </template>
