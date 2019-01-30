@@ -1,0 +1,125 @@
+{
+  "cities": {
+    "A": [],
+    "B": [{
+      "id": 1,
+      "spell": "beijing",
+      "name": "北京",
+      "children": [{
+        "name": "朝阳区英兰小区"
+      }]
+    }],
+    "C": [{
+      "id": 2,
+      "spell": "chongqing",
+      "name": "重庆"
+    }, {
+      "id": 6,
+      "spell": "changsha",
+      "name": "长沙"
+    }, {
+      "id": 7,
+      "spell": "changzhou",
+      "name": "常州"
+    }],
+    "D": [{
+      "id": 9,
+      "spell": "dalian",
+      "name": "大连"
+    }, {
+      "id": 10,
+      "spell": "dongguan",
+      "name": "东莞"
+    }],
+    "E": [],
+    "F": [{
+      "id": 11,
+      "spell": "foshan",
+      "name": "佛山"
+    }, {
+      "id": 12,
+      "spell": "fuzhou",
+      "name": "福州"
+    }],
+    "G": [{
+      "id": 13,
+      "spell": "guangzhou",
+      "name": "广州"
+    }],
+    "H": [{
+      "id": 18,
+      "spell": "hangzhou",
+      "name": "杭州"
+    }],
+    "I": [],
+    "J": [{
+      "id": 24,
+      "spell": "jinan",
+      "name": "济南"
+    }],
+    "K": [],
+    "L": [],
+    "M": [],
+    "N": [{
+      "id": 30,
+      "spell": "nanjing",
+      "name": "南京"
+    }, {
+      "id": 33,
+      "spell": "ningbo",
+      "name": "宁波"
+    }],
+    "O": [],
+    "P": [],
+    "Q": [{
+      "id": 34,
+      "spell": "qingdao",
+      "name": "青岛"
+    }],
+    "R": [],
+    "S": [{
+      "id": 3,
+      "spell": "shanghai",
+      "name": "上海"
+    }, {
+      "id": 37,
+      "spell": "shenzhen",
+      "name": "深圳"
+    }, {
+      "id": 39,
+      "spell": "suzhou",
+      "name": "苏州"
+    }],
+    "T": [{
+      "id": 4,
+      "spell": "tianjin",
+      "name": "天津"
+    }],
+    "U": [],
+    "V": [],
+    "W": [{
+      "id": 44,
+      "spell": "wuhan",
+      "name": "武汉"
+    }, {
+      "id": 45,
+      "spell": "wuxi",
+      "name": "无锡"
+    }],
+    "X": [{
+      "id": 46,
+      "spell": "xiamen",
+      "name": "厦门"
+    }, {
+      "id": 47,
+      "spell": "xian",
+      "name": "西安"
+    }],
+    "Y": [],
+    "Z": [{
+      "id": 53,
+      "spell": "zhengzhou",
+      "name": "郑州"
+    }]
+  }
+}
