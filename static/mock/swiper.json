@@ -1,0 +1,24 @@
+{
+  "swiperList":[
+    {
+      "id":"0001",
+      "imgUrl":"http://localhost:8080/img/h1.jpg"
+    },
+    {
+      "id":"0002",
+      "imgUrl":"http://localhost:8080/img/h2.jpg"
+    },
+    {
+      "id":"0003",
+      "imgUrl":"http://localhost:8080/img/h3.jpg"
+    }
+  ],
+  "select":[
+    {
+      "name":"自提"
+    },
+    {
+      "name":"外送"
+    }
+  ]
+}
